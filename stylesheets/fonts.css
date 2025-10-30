@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "Kazimir-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Kazimir-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mediator Serif Web Narrow-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/MediatorSerifWeb-Narrow.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-BoldItalic";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/KazimirText-BoldIt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mediator Serif Web Narrow-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/MediatorSerifWebNarrow-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/KazimirText-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-BlackItalic";
+  font-style: italic;
+  font-weight: 900;
+  src: url("../fonts/KazimirText-BlackIt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/KazimirText-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-LightItalic";
+  font-style: italic;
+  font-weight: 300;
+  src: url("../fonts/KazimirText-LightIt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Kazimir-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/KazimirText-It.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-MediumItalic";
+  font-style: italic;
+  font-weight: 500;
+  src: url("../fonts/KazimirText-MediumIt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kazimir-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/KazimirText-Black.ttf") format("truetype");
+}
