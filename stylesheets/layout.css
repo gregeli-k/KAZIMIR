@@ -6,7 +6,6 @@
     display: block;
     margin: auto;
 }
-
 .main-container {
   overflow: hidden;
 }
@@ -18,7 +17,6 @@ textarea,
 button {
   outline: 0;
 }
-
 .main-container {
   position: relative;
   width: 1440px;
@@ -41,7 +39,7 @@ button {
   top: 0;
   left: 50%;
   font-size: 0px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/1back.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/fBpFn0ANm1.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-47.13%, 0);
@@ -56,7 +54,7 @@ button {
   height: 33px;
   margin: 141px 0 0 256px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow;
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 400;
   line-height: 32.64px;
@@ -70,7 +68,7 @@ button {
   width: 480px;
   height: 518px;
   margin: 136px 0 0 440px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/kazimir%20with%20K.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/sNLKcwa94E.png)
     no-repeat center;
   background-size: cover;
   z-index: 159;
@@ -84,7 +82,7 @@ button {
   height: 60px;
   margin: 312px 0 0 500px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow;
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 700;
   line-height: 34.56px;
@@ -98,7 +96,7 @@ button {
   height: 150px;
   top: 881px;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/new%20auction.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/VSYvvcJCkO.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -114,14 +112,13 @@ button {
   top: 918px;
   left: 10px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.127px;
   text-align: right;
   white-space: nowrap;
   letter-spacing: -1.34px;
-  transform: rotate(0.01deg);
   z-index: 26;
 }
 .old {
@@ -134,7 +131,7 @@ button {
   top: 412px;
   left: 0;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 150px;
   font-weight: 700;
   line-height: 102px;
@@ -153,7 +150,7 @@ button {
   top: 412px;
   left: 913px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 150px;
   font-weight: 700;
   line-height: 102px;
@@ -168,7 +165,7 @@ button {
   top: 1080px;
   left: 93px;
   font-size: 0px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/auction.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/ePe5bcbmvw.png)
     no-repeat center;
   background-size: cover;
   z-index: 15;
@@ -182,7 +179,7 @@ button {
   height: 198.142px;
   margin: 1050.002px 0 0 102.977px;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Medium";
   font-size: 150px;
   font-weight: 500;
   line-height: 198px;
@@ -201,7 +198,7 @@ button {
   height: 101px;
   margin: 0.86px 0 0 89px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family:"Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 400;
   line-height: 48px;
@@ -219,7 +216,7 @@ button {
   top: 160px;
   left: 89px;
   color: #ffffff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 40px;
   font-weight: 400;
   line-height: 44.8px;
@@ -239,7 +236,7 @@ button {
   top: 163px;
   left: 1021px;
   color: #ffffff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 40px;
   font-weight: 400;
   line-height: 39.2px;
@@ -294,7 +291,7 @@ button {
   height: 220px;
   top: 0;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/preshow.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/0V20vfh3Om.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50.05%, 0);
@@ -310,7 +307,7 @@ button {
   top: 24.831px;
   left: calc(50% - 531px);
   color: #0600ff;
-  font-family: Kazimir;
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 83.999px;
@@ -326,7 +323,7 @@ button {
   height: 78.246px;
   top: 148.754px;
   left: 295.635px;
-  font-family: Kazimir;
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 78.246px;
@@ -340,7 +337,7 @@ button {
 .kazi {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -350,7 +347,7 @@ button {
 .mir {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-BoldItalic";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -363,7 +360,7 @@ button {
   height: 78.246px;
   top: 148.754px;
   left: 295.635px;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 78.246px;
@@ -377,7 +374,7 @@ button {
 .kazi-4 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -387,7 +384,7 @@ button {
 .mir-5 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -416,7 +413,7 @@ button {
   height: 222px;
   top: 0;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/trend.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/enoXBXFpxp.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -432,7 +429,7 @@ button {
   top: 31px;
   left: 289.999px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 73.024px;
@@ -448,7 +445,7 @@ button {
   height: 82.084px;
   top: 150px;
   left: 470px;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 82.084px;
@@ -462,7 +459,7 @@ button {
 .kazi-7 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -472,7 +469,7 @@ button {
 .mir-8 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -485,7 +482,7 @@ button {
   height: 1240px;
   top: 181px;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/2back.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/W0LFXJRuiD.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -506,7 +503,7 @@ button {
   position: relative;
   width: 550px;
   height: 175px;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 500;
   line-height: 34.8px;
@@ -517,7 +514,7 @@ button {
 .widest-series-a {
   position: relative;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -527,7 +524,7 @@ button {
 .alphabet-symbols {
   position: relative;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 500;
   line-height: 34.8px;
@@ -537,7 +534,7 @@ button {
 .widest-series-b {
   position: relative;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -553,7 +550,7 @@ button {
   width: 510px;
   height: 175px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -574,7 +571,7 @@ button {
   height: 536px;
   top: 0;
   left: 451px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/new%20symbols.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/0Nz5v7eTKS.png)
     no-repeat center;
   background-size: cover;
   z-index: 161;
@@ -585,7 +582,7 @@ button {
   height: 626px;
   top: 47px;
   left: 28px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/winner.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/bzCajX9S4k.png)
     no-repeat center;
   background-size: cover;
   z-index: 160;
@@ -610,7 +607,7 @@ button {
   top: 8px;
   left: 134px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -639,7 +636,7 @@ button {
   top: 11px;
   left: 475px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -658,7 +655,7 @@ button {
   top: 11px;
   left: 74px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -707,7 +704,7 @@ button {
   top: 10px;
   left: 108px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -726,7 +723,7 @@ button {
   top: 615px;
   left: 0;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -755,7 +752,7 @@ button {
   top: 40px;
   left: 66px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -783,7 +780,7 @@ button {
   top: 1px;
   left: 27px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family:"Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -811,7 +808,7 @@ button {
   top: 40px;
   left: 106px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -841,7 +838,7 @@ button {
   width: 157px;
   height: 35px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 35px;
@@ -864,7 +861,7 @@ button {
   height: 622px;
   top: 0;
   left: 541px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/composition.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/AsZgDbVOvs.png)
     no-repeat center;
   background-size: cover;
   z-index: 163;
@@ -888,7 +885,7 @@ button {
   top: 11px;
   left: 26px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -913,7 +910,7 @@ button {
   height: 1240px;
   top: 490px;
   left: 49px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/3back.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/xS93Ar1uZt.png)
     no-repeat center;
   background-size: cover;
   z-index: 3;
@@ -937,7 +934,7 @@ button {
   top: 11px;
   left: 76px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -966,7 +963,7 @@ button {
   top: 11px;
   left: 475px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -985,7 +982,7 @@ button {
   top: 11px;
   left: 74px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1023,7 +1020,7 @@ button {
   top: 151px;
   left: 61px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1047,7 +1044,7 @@ button {
   height: 385px;
   top: 175px;
   left: 391px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/filler.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/gF8HP26cMA.png)
     no-repeat center;
   background-size: cover;
   z-index: 164;
@@ -1072,7 +1069,7 @@ button {
   top: 42px;
   left: 94px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1101,7 +1098,7 @@ button {
   top: 7px;
   left: 105px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1129,7 +1126,7 @@ button {
   top: 19px;
   left: 14px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -1143,7 +1140,7 @@ button {
   height: 558px;
   top: 522px;
   left: 0;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/trice.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/rSVTxg67YO.png)
     no-repeat center;
   background-size: cover;
   z-index: 165;
@@ -1167,7 +1164,7 @@ button {
   top: 8px;
   left: calc(50% - 90px);
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -1204,7 +1201,7 @@ button {
   top: 70px;
   left: 62px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1233,7 +1230,7 @@ button {
   top: 39px;
   left: 84px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1261,7 +1258,7 @@ button {
   top: 1px;
   left: 29px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -1275,11 +1272,11 @@ button {
   justify-content: flex-start;
   position: absolute;
   width: 386.586px;
-  height: 320.152px;
-  top: 1688px;
+  height: 330px;
+  top: 1710px;
   left: 78px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 33px;
@@ -1319,7 +1316,7 @@ button {
   top: 11px;
   left: 475px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1338,7 +1335,7 @@ button {
   top: 11px;
   left: 74px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1364,7 +1361,7 @@ button {
   height: 1240px;
   top: 1711px;
   left: 49px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/4back.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/WaBzQLy3pr.png)
     no-repeat center;
   background-size: cover;
 }
@@ -1395,7 +1392,7 @@ button {
   top: 39px;
   left: 70px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1423,7 +1420,7 @@ button {
   top: 1px;
   left: 21px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -1436,7 +1433,7 @@ button {
   width: 1229px;
   height: 580px;
   margin: 53px 0 0 69px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/absolute%20w.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/M7rrt6U62v.png)
     no-repeat center;
   background-size: cover;
   z-index: 166;
@@ -1458,7 +1455,7 @@ button {
   position: relative;
   width: 852px;
   height: 22px;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 32px;
   font-weight: 700;
   line-height: 21.76px;
@@ -1470,7 +1467,7 @@ button {
 .absolute-eva-26 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38.4px;
@@ -1479,7 +1476,7 @@ button {
 .absolute-eva-27 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38.4px;
@@ -1505,7 +1502,7 @@ button {
   top: 11px;
   left: 475px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1524,7 +1521,7 @@ button {
   top: 11px;
   left: 74px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1572,7 +1569,7 @@ button {
   top: 39px;
   left: 73px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1600,7 +1597,7 @@ button {
   top: 0;
   left: 30px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -1624,12 +1621,12 @@ button {
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  width: 438.697px;
+  width: 410px;
   height: 309.84px;
-  top: 2540px;
+  top: 2580px;
   left: 1027px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 33px;
@@ -1644,7 +1641,7 @@ button {
   height: 451px;
   top: 2793px;
   left: 746px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/symbol.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/Hys4ve9WSk.png)
     no-repeat center;
   background-size: cover;
   z-index: 170;
@@ -1655,7 +1652,7 @@ button {
   height: 448px;
   top: 2794px;
   left: 118px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/manifesto.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/siGsxhbXxn.png)
     no-repeat center;
   background-size: cover;
   z-index: 167;
@@ -1666,7 +1663,7 @@ button {
   height: 1580px;
   top: 2931px;
   left: 49px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/5back.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/nDQF6mr6OO.png)
     no-repeat center;
   background-size: cover;
   z-index: 4;
@@ -1700,7 +1697,7 @@ button {
   top: 15px;
   left: 91px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 21.76px;
@@ -1727,7 +1724,7 @@ button {
   top: 15px;
   left: 44px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 21.76px;
@@ -1744,13 +1741,13 @@ button {
   height: 492px;
   margin: 699px 0 0 979px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 30px;
   font-weight: 400;
   line-height: 28.8px;
   text-align: left;
   letter-spacing: 0.9px;
-  z-index: 149;
+  z-index: 100;
 }
 .flex-row-a {
   display: flex;
@@ -1782,7 +1779,7 @@ button {
   top: 11px;
   left: 29px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1801,7 +1798,7 @@ button {
   top: 11px;
   left: 326px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1829,7 +1826,7 @@ button {
   top: 11px;
   left: 30px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1848,7 +1845,7 @@ button {
   top: 11px;
   left: 332px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 29px;
   font-weight: 400;
   line-height: 34.8px;
@@ -1907,7 +1904,7 @@ button {
   top: 40px;
   left: 24px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1935,7 +1932,7 @@ button {
   top: 2px;
   left: 20px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -1963,7 +1960,7 @@ button {
   top: 42px;
   left: 29px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 29px;
   font-weight: 700;
   line-height: 34.8px;
@@ -1991,7 +1988,7 @@ button {
   top: 2px;
   left: 24px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 16px;
   font-weight: 400;
   line-height: 19.2px;
@@ -2005,10 +2002,11 @@ button {
   height: 1047px;
   top: 3564px;
   left: 8px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/coffin.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/4ia1bGi9Mu.png)
     no-repeat center;
   background-size: cover;
-  z-index: 140;
+  z-index: 1
+;
 }
 .flex-column-c {
   position: relative;
@@ -2027,7 +2025,7 @@ button {
   top: 0;
   left: 0;
   color: #ffffff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 25px;
   font-weight: 500;
   line-height: 30px;
@@ -2047,7 +2045,7 @@ button {
   top: 24.712px;
   left: 33.764px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 500;
   line-height: 38.4px;
@@ -2066,7 +2064,7 @@ button {
   height: 40.435px;
   margin: -9.461px 0 0 944px;
   color: #ffffff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 27px;
   font-weight: 500;
   line-height: 32.4px;
@@ -2082,10 +2080,10 @@ button {
   height: 419px;
   top: 4010px;
   left: 6px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/coffname.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/C3bhOdagCP.png)
     no-repeat center;
   background-size: cover;
-  z-index: 132;
+  z-index: 10;
 }
 .suprematicheskiy-grob {
   position: absolute;
@@ -2093,7 +2091,7 @@ button {
   height: 44px;
   top: 4368px;
   left: 0;
-  font-family: Grid Type, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 43px;
   font-weight: 500;
   line-height: 44px;
@@ -2106,7 +2104,7 @@ button {
 .span-quote {
   position: relative;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 43px;
   font-weight: 400;
   line-height: 44.29px;
@@ -2116,7 +2114,7 @@ button {
 .span-suprematicheskiy-grob {
   position: relative;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 43px;
   font-weight: 700;
   line-height: 44.29px;
@@ -2126,7 +2124,7 @@ button {
 .span-quote-3a {
   position: relative;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 43px;
   font-weight: 400;
   line-height: 44.29px;
@@ -2154,7 +2152,7 @@ button {
   height: 219.996px;
   margin: 14px 0 0 332px;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 200px;
   font-weight: 700;
   line-height: 219.996px;
@@ -2170,7 +2168,7 @@ button {
   height: 38px;
   margin: 164.004px 0 0 258px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2185,7 +2183,7 @@ button {
   height: 38px;
   margin: 43px 0 0 327px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2210,7 +2208,7 @@ button {
   top: 0;
   left: 309px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2228,7 +2226,7 @@ button {
   top: 25px;
   left: 0;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2246,7 +2244,7 @@ button {
   top: 26px;
   left: 165px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2274,7 +2272,7 @@ button {
   width: 426px;
   height: 152px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 500;
   line-height: 38.4px;
@@ -2291,7 +2289,7 @@ button {
   width: 387px;
   height: 222px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 500;
   line-height: 38.4px;
@@ -2315,7 +2313,7 @@ button {
   top: 0;
   left: 0;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2333,7 +2331,7 @@ button {
   top: 22px;
   left: 413px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2357,7 +2355,7 @@ button {
   position: relative;
   height: 38px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2371,7 +2369,7 @@ button {
   position: relative;
   height: 38px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2386,7 +2384,7 @@ button {
   height: 38px;
   margin: 28px 0 0 862px;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 32px;
   font-weight: 700;
   line-height: 38px;
@@ -2401,7 +2399,7 @@ button {
   height: 1550px;
   top: 8336px;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/table.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/wNrZJ2eeWy.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -2422,7 +2420,7 @@ button {
   height: 1453px;
   top: 0;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/pre-K.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/rL8O0zoJHz.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -2433,7 +2431,7 @@ button {
   width: 396px;
   height: 104px;
   margin: 31px 0 0 522px;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 700;
   line-height: 52.32px;
@@ -2444,7 +2442,7 @@ button {
 .preview {
   position: relative;
   color: #f98553;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 700;
   line-height: 52.32px;
@@ -2454,7 +2452,7 @@ button {
 .auction-number-46 {
   position: relative;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 700;
   line-height: 52.32px;
@@ -2478,7 +2476,7 @@ button {
   top: 0;
   left: 49px;
   color: #ffffff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 40px;
   font-weight: 400;
   line-height: 44.8px;
@@ -2516,7 +2514,7 @@ button {
   top: 5px;
   left: 981px;
   color: #ffffff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 40px;
   font-weight: 400;
   line-height: 39.2px;
@@ -2593,7 +2591,7 @@ button {
   height: 83.996px;
   margin: 318.831px 0 0 291px;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 83.996px;
@@ -2628,7 +2626,7 @@ button {
   height: 228px;
   top: 0;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/org.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/9VbX7DEt2e.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50.44%, 0);
@@ -2644,7 +2642,7 @@ button {
   top: 26px;
   left: calc(50% - 504.71px);
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.116px;
@@ -2660,7 +2658,7 @@ button {
   height: 82.084px;
   top: 156px;
   left: 280.999px;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 82.084px;
@@ -2674,7 +2672,7 @@ button {
 .kazi-51 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -2684,7 +2682,7 @@ button {
 .mir-52 {
   position: relative;
   color: #0600ff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 67px;
   font-weight: 700;
   line-height: 88.44px;
@@ -2696,7 +2694,7 @@ button {
   width: 1306px;
   height: 451px;
   margin: 33.916px 0 0 30px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/I&Y.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/dsTw0LXMQm.png)
     no-repeat center;
   background-size: cover;
   z-index: 171;
@@ -2716,7 +2714,7 @@ button {
   position: relative;
   height: 33px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 700;
   line-height: 32.64px;
@@ -2734,7 +2732,7 @@ button {
   width: 532px;
   height: 33px;
   color: #0600ff;
-  font-family: Mediator Serif Web Narrow, var(--default-font-family);
+  font-family: "Mediator Serif Web Narrow-Regular";
   font-size: 48px;
   font-weight: 700;
   line-height: 32.64px;
@@ -2749,7 +2747,7 @@ button {
   height: 1199px;
   top: 12426px;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/booK.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/FwH4sKMAr0.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -2781,7 +2779,7 @@ button {
   height: 2083px;
   top: 1151px;
   left: 50%;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/seats.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/cde5WATfwp.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-50%, 0);
@@ -2805,7 +2803,7 @@ button {
   top: 2937px;
   left: 559px;
   font-size: 0px;
-  background: url(file:///D:/Мои%20документы/Рабочий%20стол/KAZIMIR/images/ring.png)
+  background: url(https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-10-30/5OgN8qGgZt.png)
     no-repeat center;
   background-size: cover;
   z-index: 74;
@@ -2819,7 +2817,7 @@ button {
   height: 88.385px;
   margin: 35.824px 0 0 234.796px;
   color: #f98553;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 64px;
   font-weight: 900;
   line-height: 84.48px;
@@ -2846,7 +2844,7 @@ button {
   top: 0;
   left: 30.322px;
   color: #ffffff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 14px;
   font-weight: 900;
   line-height: 18.48px;
@@ -2865,7 +2863,7 @@ button {
   top: 10.01px;
   left: 0;
   color: #ffffff;
-  font-family: Kazimir, var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 40px;
   font-weight: 900;
   line-height: 52.8px;
@@ -2884,7 +2882,7 @@ button {
   top: 3431px;
   left: calc(50% - 671.5px);
   color: #0600ff;
-  font-family: "Kazimir-Bold", var(--default-font-family);
+  font-family: "Kazimir-Bold";
   font-size: 35px;
   font-weight: 700;
   line-height: 23.8px;
